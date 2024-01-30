@@ -1,3 +1,3 @@
 # Code Portfolio of Jennifer Buskas
 
-Featuring assignments and personal rojects.
+Featuring assignments and personal projects.
